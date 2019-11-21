@@ -22,7 +22,7 @@ Put this code inside it: <br />
 ```
 module.exports = {
   tailwind: {
-    styled: "styled-components"
+    styled: "@emotion/styled"
   }
 };
 ```
