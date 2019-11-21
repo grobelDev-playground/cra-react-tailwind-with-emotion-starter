@@ -14,7 +14,7 @@ const Button = styled.button`
 function App() {
   return (
     <div className="App">
-      <Paragraph>Hello CRA-Tailwind-StyledComponents!</Paragraph>
+      <Paragraph>Hello CRA-Tailwind-Emotion!</Paragraph>
       <Button>Hover Button</Button>
     </div>
   );
