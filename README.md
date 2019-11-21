@@ -1,7 +1,7 @@
 ## Explanation
 
 This project shows how you can use: <br />
-Create-React-App (CRA) combined with styled-components + Tailwind CSS.
+Create-React-App (CRA) combined with Emotion + Tailwind CSS.
 
 ## 1. Installation
 
